@@ -1,2 +1,2 @@
-# Fractal_TrailingStop
-MetaTrader5 Fractal TrailingStop EA
+# Fractal_Trailing_Stop
+MetaTrader5 Fractal Trailing Stop EA
